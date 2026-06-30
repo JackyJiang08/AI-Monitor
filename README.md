@@ -65,7 +65,7 @@ The score maps to a discrete signal — `STRONG_BUY` → `BUY` → `HOLD` → `S
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/JackyJiang08/AI-Monitor.git
+git clone https://github.com/JackyJiang08/AI-Monitor-Platform.git
 cd AI-Monitor/frontend
 ```
 
